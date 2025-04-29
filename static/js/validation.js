@@ -1,5 +1,3 @@
-/***** M00895648 || CST2120 Coursework 2 *****/
-
 // Global variables used by all functions
 var emailInput = document.getElementById("email");
 var usernameInput = document.getElementById("username");
