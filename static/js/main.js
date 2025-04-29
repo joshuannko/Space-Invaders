@@ -1,4 +1,3 @@
-/***** M00895648 || CST2120 Coursework 2 *****/
 let canvas, 
 		c, 
 		invaders, 
