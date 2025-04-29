@@ -1,5 +1,3 @@
-/***** M00895648 || CST2120 Coursework 2 *****/
-
 class Invader{
 	constructor(x,y,shape,speed){
 		this.x = x || 0;
