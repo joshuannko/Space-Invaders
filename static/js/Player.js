@@ -1,4 +1,3 @@
-/***** M00895648 || CST2120 Coursework 2 *****/
 class Player{
 	// Construct player
 	constructor(x,y,shape){
